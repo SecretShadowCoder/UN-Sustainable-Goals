@@ -1,0 +1,16 @@
+img{
+    position: relative;
+    left: 20%;
+}
+
+.Home{
+    font-size: 200%;
+}
+
+.ImgSpec{
+    max-width: 40%;
+}
+
+a{
+    color: aqua;
+}

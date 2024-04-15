@@ -1,0 +1,52 @@
+.Banner img{
+    max-width: 100%;
+}
+.Banner{
+    position:relative;
+}
+.Banner.Text.on.Banner{
+    color:rgb(0, 0, 0);
+    position: absolute;
+    left:20%;
+    top:20%;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+h2{
+    font-size: 30px;
+    color: rgb(5, 240, 5);
+}
+article{
+    font-size: 24px;
+    color: blue;
+    font-stretch: normal;
+}
+ul{
+    font-size:25px;
+    color: aqua;
+    list-style-type:circle;
+
+}
+.Banner p{
+    font-size: 300%;
+}
+h1{
+    color: orangered;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+a{
+    color: rgb(96, 206, 0);
+}
+
+p{
+    font-size: 40px;
+    color: deepskyblue;
+    text-align: right;
+}
+
+
+
+
+
